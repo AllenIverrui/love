@@ -4,8 +4,7 @@
   
 浏览地址：[myy.alleniverrui.top/2](http://myy.alleniverrui.top/2)
 
-[c++，python爱心代码] ( https://blog.csdn.net/2203_75283579/article/details/128773476?spm=1001.2014.3001.5501)
-`
+[c++，python爱心代码] (https://blog.csdn.net/2203_75283579/article/details/128773476?spm=1001.2014.3001.5501)
 ![](https://s3.uuu.ovh/imgs/2022/11/21/3c0bb0c18b959743.png)
 
 #### 软件架构
