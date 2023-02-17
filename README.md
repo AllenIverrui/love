@@ -1,7 +1,11 @@
 # 爱心
 
 #### 介绍
-  
+  浏览地址：[myy.alleniverrui.top](http://myy.alleniverrui.top/1)
+
+  ![](/image/%E7%88%B1%E5%BF%83.png)
+
+
 浏览地址：[myy.alleniverrui.top/2](http://myy.alleniverrui.top/2)
 
 [c++，python爱心代码](https://blog.csdn.net/2203_75283579/article/details/128773476?spm=1001.2014.3001.5501)
